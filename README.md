@@ -1,4 +1,4 @@
-# OOAD-WEEK09
+# OOAD-WEEK08
 
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
